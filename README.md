@@ -2,11 +2,8 @@
 
 Sorting algorithms are one of the common domains for studying Computer Science data structures and algorithms. They give us an opportunity to focus on algorithms of various complexity all solving a relatively simple problem.
 
-Writing sorting algorithms will help you:
-
 The goals of Sorting Suite are as follows:
-
-Come to recognize how to solve problems
+ - Come to recognize how to solve problems
  - Learn to wrestle with a difficult problem 
  - Practice articulating code
  - Learn to think algorithmically
@@ -14,13 +11,13 @@ Come to recognize how to solve problems
  - Learn to write (and love) unit tests
 
 This project includes the following files:
-mergeSort.js
-mergeSort-test.js
+ - mergeSort.js
+ - mergeSort-test.js
 
 
 For more advanced testing you will need to generate arrays of numbers to see how large of an array your different sorting algorithms can sort.
 
-The test suites between sorts will be very similar; however, we want to see you stress-test the sorting algorithms. Some are more efficient than others and can get through larger arrays. How much more efficient is merge sort than bubble sort?
+The test suites between sorts will be very similar; however, we want to see you stress-test the sorting algorithms. Some are more efficient than others and can get through larger arrays. 
 
 
 ## Merge Sort
