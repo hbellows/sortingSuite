@@ -1,4 +1,9 @@
-// Split the array into halves and merge them recursively 
+// Split the array into halves and merge them recursively
+
+// Arrays of multiple items can’t be compared until they are sorted.
+// We can achieve this by splitting the array into halves recursively -
+// until we reach a point in which we compare multiple pairs of single-item arrays.
+
 function mergeSort (arr) {
   if (arr.length === 1) {
     // return once we hit an array with a single item
